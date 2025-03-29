@@ -40,7 +40,7 @@ A continuación, se explican los comandos clave que utilizarás en esta práctic
 
 ### **Entregables**
 
-El informe debe incluir **exactamente los siguientes pantallazos** correspondientes a cada paso del taller:
+Un informe en formato PDF que debe incluir **exactamente** las siguientes evidencias correspondientes a cada paso del taller:
 
 1. **Presentación:**
 
