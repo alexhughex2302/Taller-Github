@@ -38,20 +38,6 @@ Cada estudiante debe completar los cursos en GitHub asociados a los siguientes r
 
 ### **¿Cómo Completar Cada Curso?**
 
-#### **Introducción a GitHub**
-
-1. Accede al enlace del repositorio y haz clic en "_Copy Exercise_".
-2. Crea un nuevo repositorio haciendo clic en "_Create repository_", asegurándote de que esté configurado como **Público**.
-3. Una vez creado, lee el README.md y haz clic en "_Start Exercise_".
-4. Tras iniciar el curso, **espera 20-30 segundos y luego actualiza la página** (`F5`) para ver la siguiente tarea.
-5. Dirígete a la sección de "_Issues_", donde se te proporcionarán las instrucciones paso a paso.
-6. Sigue las indicaciones automáticas generadas por el pipeline de GitHub hasta completar todas las actividades.
-
-> [!IMPORTANT]
-> Para confirmar la finalización del curso, verifica que en el README del repositorio aparezca un mensaje de "_Congratulations_". Si este mensaje no está presente, significa que el curso no se ha completado correctamente.
-
-#### **Resolución de conflictos - Revisión de pull requests**
-
 1. Accede al enlace del repositorio correspondiente y haz clic en "_Start course_".
 2. Crea un nuevo repositorio seleccionando "_Create repository_", asegurándote de que sea **Público**.
 3. Ingresa a tu repositorio, lee el README.md y sigue las instrucciones detalladas.
@@ -64,11 +50,11 @@ Cada estudiante debe completar los cursos en GitHub asociados a los siguientes r
 
 Cada estudiante debe presentar un **informe en formato PDF**, que incluya lo siguiente:
 
-1. **Enlaces a tus 3 repositorios**, uno por cada curso realizado.
-2. **Capturas de pantalla** como evidencia de finalización donde se vea su perfil de GitHub:
-   - Para el curso "_Introducción a GitHub_", una captura del README con el mensaje "_Congratulations_" visible.
-   - Para los cursos "_Resolución de conflictos_" y "_Revisión de pull requests_", capturas del README con el mensaje "_Finish_" visible.
+1. **Enlaces a repositorios**, correspondientes a cada uno de los cursos completados.
+2. **Capturas de pantalla**, donde se visualice claramente tu perfil de GitHub y los archivos README de cada repositorio con el mensaje "Finish" visible.
 3. **Respuestas a las siguientes preguntas** (máximo 2 párrafos por respuesta):
-   - _¿Qué aprendió durante este proceso?_
-   - _¿Cómo integraría lo aprendido a su proyecto?_
-   - _¿Qué desafíos encontró y cómo los resolvió?_
+   - _¿Qué conocimientos y habilidades adquirió durante la realización de estos cursos de GitHub?_
+   - _¿De qué manera aplicaría los conceptos aprendidos en un proyecto de desarrollo real?_
+   - _¿Qué dificultades enfrentó durante el proceso y cuál fue su estrategia para superarlas?_
+   - _¿Cuál es el flujo de trabajo completo para crear y gestionar una Pull Request de manera efectiva? (Incluya investigación adicional sobre mejores prácticas)_
+   - _Investigue sobre estrategias de branching (especialmente GitFlow) y estándares de commits._
